@@ -1,5 +1,5 @@
 # python_oop
-Practising Object Oriented Programming.
+Object Oriented Programming in Python
 
 Use of Inheritance
 Super
